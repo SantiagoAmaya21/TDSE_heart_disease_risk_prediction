@@ -85,7 +85,6 @@ In this assignment, a logistic regression model is built without using high-leve
 ---
 
 ## Step 5: Deployment with Amazon SageMaker
-**(To be completed)**
 
 **High-level steps performed:**
 - Exported trained model parameters (weights, bias, normalization values).
